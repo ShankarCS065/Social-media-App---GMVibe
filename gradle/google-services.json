@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1077973341573",
+    "firebase_url": "https://gmvibe-b21f3-default-rtdb.firebaseio.com",
+    "project_id": "gmvibe-b21f3",
+    "storage_bucket": "gmvibe-b21f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077973341573:android:0120c1b7ffe89bd79ca0ec",
+        "android_client_info": {
+          "package_name": "com.krashkrosh748199.GmVibe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPFJYZe8maunIfhXr8NhjpQ0beSHXYKOA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
